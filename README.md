@@ -1,4 +1,4 @@
-# ReactingWall Module
+# Reacting Wall Module
 This module was developed by [ATA Engineering](http://www.ata-e.com) as an 
 add-on to the Loci/CHEM computational fluid dynamics (CFD) solver. The module 
 augments the **viscousWall** boundary condition in Loci/CHEM by implementing a 
