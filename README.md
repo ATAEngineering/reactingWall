@@ -24,8 +24,9 @@ Regulations (ITAR). Both Loci and CHEM can be obtained from the
 [SimSys Software Forum](http://www.simcenter.msstate.edu) hosted by MSU.
 
 # Obtaining The Module
-The source code for the module is freely available to a restricted set of users.
-For more information and to request a copy please contact mnucci@ata-e.com.
+The source code for the module is freely available to the US Government under
+SBIR data rights. For more information and to request a copy please contact 
+mnucci@ata-e.com.
 
 # References
 [1] Driver, D. M., et al. "Understanding High Recession Rates of Carbon Ablators
